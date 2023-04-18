@@ -86,7 +86,7 @@ function backgroundSwitch() {
   if (isRandom) {
     intervaControl = setInterval(() => {
       let rnd = Math.floor(Math.random() * imgsArray.length);
-      landing.style.backgroundImage = 'url("../images/' + imgsArray[rnd] + '")';
+      landing.style.backgroundImage = 'url("./images/' + imgsArray[rnd] + '")';
     }, 3000);
   }
 }
