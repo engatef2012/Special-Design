@@ -7,4 +7,4 @@ the design is equipped with
 - randonmly changing background
 - saving the user choice of the settings
 - **responsive to all screen sizes**
--- some nice transitions in all sections
+- some nice transitions in all sections
